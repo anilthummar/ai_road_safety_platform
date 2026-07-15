@@ -1,0 +1,32 @@
+# Build directories
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+*.swn
+*.sublime-*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test and coverage
+coverage/
+.coverage
+
+# Generated files
+*.o
+*.so
+*.a
+*.dylib
+*.dll
+*.exe
+*.app
