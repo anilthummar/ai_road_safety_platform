@@ -1,5 +1,0 @@
-background
-road
-water
-vehicle
-obstacle
