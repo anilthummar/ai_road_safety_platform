@@ -1,0 +1,7 @@
+flooded_road
+standing_water
+pothole
+debris
+hidden_hazard
+vehicle
+person
